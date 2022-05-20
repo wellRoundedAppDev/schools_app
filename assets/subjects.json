@@ -1,0 +1,236 @@
+
+[
+  {
+    "id": 1,
+    "title": "English",
+    "courses": [
+      {
+        "id": 1,
+        "teacher_name": "Mr. Ahmed",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 2,
+        "teacher_name": "Mr. Mina",
+        "starting_date": "2022-5-29"
+      },
+      {
+        "id": 3,
+        "teacher_name": "Mr. John Patrick",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 4,
+        "teacher_name": "Mr. Mohammed",
+        "starting_date": "2022-6-1"
+      },
+      {
+        "id": 5,
+        "teacher_name": "Mr. Dawood",
+        "starting_date": "2022-6-7"
+      },
+      {
+        "id": 6,
+        "teacher_name": "Miss Mona Jamal",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 7,
+        "teacher_name": "Miss Salwa Tamer",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 8,
+        "teacher_name": "Mr. Jamal Ahmed",
+        "starting_date": "2022-6-25"
+      },
+      {
+        "id": 9,
+        "teacher_name": "Miss Soad Ahmed",
+        "starting_date": "2022-6-29"
+      },
+      {
+        "id": 10,
+        "teacher_name": "Mr. Hassan Ahmed",
+        "starting_date": "2022-7-1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Math",
+    "courses": [
+      {
+        "id": 1,
+        "teacher_name": "Mr. Hani King",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 2,
+        "teacher_name": "Mr. Zakaria Mohsen",
+        "starting_date": "2022-5-29"
+      },
+      {
+        "id": 3,
+        "teacher_name": "Miss Lina Gmal",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 4,
+        "teacher_name": "Mr. Hardy Barsta",
+        "starting_date": "2022-6-1"
+      },
+      {
+        "id": 5,
+        "teacher_name": "Mr. John Cena",
+        "starting_date": "2022-6-7"
+      },
+      {
+        "id": 6,
+        "teacher_name": "Miss Kerla Jamal",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 7,
+        "teacher_name": "Miss Fawzya Mohsen",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 8,
+        "teacher_name": "Mr. Vater Muchsten",
+        "starting_date": "2022-6-25"
+      }
+
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Science",
+    "courses": [
+
+      {
+        "id": 1,
+        "teacher_name": "Mr. Sood Safar",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 2,
+        "teacher_name": "Mr. Jean Paul",
+        "starting_date": "2022-6-1"
+      },
+      {
+        "id": 3,
+        "teacher_name": "Mr. Farid Atrash",
+        "starting_date": "2022-6-7"
+      },
+      {
+        "id": 4,
+        "teacher_name": "Miss Nadine Jamal",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 5,
+        "teacher_name": "Miss Pamela Jean",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 6,
+        "teacher_name": "Mr. Jamal Nasser",
+        "starting_date": "2022-6-25"
+      },
+      {
+        "id": 7,
+        "teacher_name": "Miss Yasmine Massoud",
+        "starting_date": "2022-6-29"
+      },
+      {
+        "id": 8,
+        "teacher_name": "Mr. Moheb Raof",
+        "starting_date": "2022-7-1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "History",
+    "courses": [
+      {
+        "id": 1,
+        "teacher_name": "Mr. Hani Khaled",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 2,
+        "teacher_name": "Mr. Liam Mina",
+        "starting_date": "2022-5-29"
+      },
+      {
+        "id": 3,
+        "teacher_name": "Mr. Jack Patrick",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 4,
+        "teacher_name": "Miss Soad Sabri",
+        "starting_date": "2022-6-1"
+      }
+
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Computer Science",
+    "courses": [
+      {
+        "id": 1,
+        "teacher_name": "Mr. Mohameed Bard",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 2,
+        "teacher_name": "Mr. Kant Kent",
+        "starting_date": "2022-5-29"
+      },
+      {
+        "id": 3,
+        "teacher_name": "Mr. Pastor Mina",
+        "starting_date": "2022-5-25"
+      },
+      {
+        "id": 4,
+        "teacher_name": "Mr. Ingel Derek",
+        "starting_date": "2022-6-1"
+      },
+      {
+        "id": 5,
+        "teacher_name": "Mr. Khaled Ejad",
+        "starting_date": "2022-6-7"
+      },
+      {
+        "id": 6,
+        "teacher_name": "Miss Rebecca Bart",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 7,
+        "teacher_name": "Miss Jessie Stone",
+        "starting_date": "2022-6-9"
+      },
+      {
+        "id": 8,
+        "teacher_name": "Mr. King Luther",
+        "starting_date": "2022-6-25"
+      },
+      {
+        "id": 9,
+        "teacher_name": "Miss Sawan Badr",
+        "starting_date": "2022-6-29"
+      },
+      {
+        "id": 10,
+        "teacher_name": "Mr. Jackson King",
+        "starting_date": "2022-7-1"
+      }
+    ]
+  }
+]
