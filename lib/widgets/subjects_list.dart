@@ -15,6 +15,9 @@ class SubjectsList extends StatelessWidget {
     var isWeb = kIsWeb;
 
     return Container(
+
+      color: Colors.grey[200],
+
       height: (!isWeb)?MediaQuery.of(context).size.height / 20:MediaQuery.of(context).size.height,
       margin: EdgeInsets.only(top: 10),
       child: ListView.builder(
