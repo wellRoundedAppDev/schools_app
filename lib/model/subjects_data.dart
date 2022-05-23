@@ -8,9 +8,9 @@ class SubjectsData extends ChangeNotifier{
   List<Subject> subjects = [];
   int selectedSubjectId = 1;
 
-  SubjectsData(){
-    getSubjects();
-  }
+   SubjectsData(){
+     getSubjects();
+   }
 
   Future<void> getSubjects() async{
 

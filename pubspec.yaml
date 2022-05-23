@@ -27,10 +27,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-<<<<<<< HEAD
-=======
   provider: ^6.0.2
->>>>>>> d2d7876 (2)
   flutter:
     sdk: flutter
 
@@ -56,11 +53,8 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
 
-<<<<<<< HEAD
-=======
   assets:
     - assets/
->>>>>>> d2d7876 (2)
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
